@@ -1,2 +1,1 @@
-# jsanimation
-js-animation
+https://ogreogles.github.io/jsanimation
